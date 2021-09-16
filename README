@@ -1,0 +1,8 @@
+Name: Sam Wagner
+
+This program recreates the linux command ps. The user can pass in a pid to get information about that process.
+The available options to display are: the process's state, the user time, the system time, the virtual memory
+and the command line to run the program. If a pid is not specified, this information is displayed for all of
+the current user's processes. The command line and user time are displayed by default, but can be turned off
+with -c- and -U- respectively. All other options default to off. I did not have a partner for this project so
+all code is my own.
